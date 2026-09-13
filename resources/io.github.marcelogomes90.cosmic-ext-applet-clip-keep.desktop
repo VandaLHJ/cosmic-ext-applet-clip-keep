@@ -1,12 +1,14 @@
 [Desktop Entry]
 Name=Clip Keep
 Comment=Clipboard history for the COSMIC desktop
+Comment[cs]=Historie schránky pro prostředí COSMIC
 Type=Application
 Exec=cosmic-ext-applet-clip-keep
 Icon=io.github.marcelogomes90.cosmic-ext-applet-clip-keep-symbolic
 Terminal=false
 Categories=COSMIC;
 Keywords=COSMIC;Applet;Clipboard;History;Copy;Paste;Clip;
+Keywords[cs]=COSMIC;Applet;Schránka;Historie;Kopírovat;Vložit;Výstřižek;
 NoDisplay=true
 StartupNotify=true
 X-CosmicApplet=true
